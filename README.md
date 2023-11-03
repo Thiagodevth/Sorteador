@@ -1,6 +1,7 @@
-# Sorteador De Números
+<h1 > Sorteador De Números </h1>
+<button  href="https://sorteador-de-numeros-th.netlify.app/" > </button>
 <br>
-<a href="https://sorteador-de-numeros-th.netlify.app/">
+
 <br>
 
 Onde vc seleciona o valor minimo o máximo, e o sorteio acontece entre esses dois valores,
